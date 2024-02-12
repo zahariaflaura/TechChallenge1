@@ -14,11 +14,10 @@ Additionally, the script includes a main function process_csv_files(folder_paths
 The script includes error handling to gracefully manage exceptions such as missing files, insufficient data points, and invalid file formats.
 
 Libraries Used
-pandas: For data manipulation and CSV file handling.
-NumPy: For numerical computing and random number generation.
-os: For operating system dependent functionality, such as file path handling.
+1. pandas: For data manipulation and CSV file handling.
+2. NumPy: For numerical computing and random number generation.
+3. os: For operating system dependent functionality, such as file path handling.
 
-Usage
 To use the script:
 
 1. Install Python and the required libraries (pandas, NumPy).
