@@ -24,5 +24,5 @@ To use the script:
 2. Ensure the CSV files are organized in folders according to the specified file paths.
 3. Execute the script in a Python environment.
 
-Note
+Note:
 Ensure that the CSV files contain the necessary data in the specified format and that the file paths are correctly set before running the script.
